@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="llama_player"
+version="1.0.0"
+displayName="Llama Player"
+description="Minecraft, but a gamer llama judges and rigs your game."
